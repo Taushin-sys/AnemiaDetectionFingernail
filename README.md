@@ -93,7 +93,7 @@ Model Information
 	•	Accuracy: ~85% (on test data)
 
 Sample Prediction Output
-Image: 
+
 Image:
 ![Sample Prediction](notebooks/output/annotated_results.png)
 Predicted: Not Anemic
